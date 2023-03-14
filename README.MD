@@ -12,7 +12,7 @@ The reason I forked Notepad++ is that I'm frustrated with the bloat, unneccessar
 Build Notepad+++
 ----------------
 
-Please follow [build guide](BUILD.MD) to build Notepad+++ from source.
+Please follow [build guide](BUILD.MD) to build PowerNotepad+++ from source.
 
 
 
