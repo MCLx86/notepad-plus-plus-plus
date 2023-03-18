@@ -12,7 +12,3 @@ Build Notepad+++
 ----------------
 
 Please follow [build guide](BUILD.MD) to build PowerNotepad+++ from source.
-
-
-
-
