@@ -1,4 +1,4 @@
-What the fuck is this?
+What is Notepad+++?
 =========================
 PowerNotepad+++ is a fork of Notepad++ 7.9.2, a free (free as in both "free speech" and "free beer") source code
 editor and Notepad replacement that supports several programming languages and natural languages. Running in the MS Windows environment, its use is governed by the [GPL 2.0 License](LICENSE.TXT).
