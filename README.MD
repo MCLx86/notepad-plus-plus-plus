@@ -1,3 +1,6 @@
+## JULY 28, 2025: Git repo archived and moved to Mercurial, hosted at cshg.evadingreality.org
+
+
 What is Notepad+++?
 =========================
 PowerNotepad+++ is a fork of Notepad++ 7.9.2, a free (free as in both "free speech" and "free beer") source code
